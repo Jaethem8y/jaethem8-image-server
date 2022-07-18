@@ -12,6 +12,7 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.1",
+    "forever": "^4.0.3",
     "mime": "^3.0.0"
   }
 }
