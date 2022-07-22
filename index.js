@@ -7,6 +7,6 @@ app.get("/", (req, res) => {
   res.send("Jaethem8 image server");
 });
 
-app.listen(8080, () => {
-  console.log("server is running");
+app.listen(8000, () => {
+  console.log("Server is running at 8000");
 });
